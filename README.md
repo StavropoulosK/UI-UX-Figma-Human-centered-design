@@ -28,6 +28,6 @@ the prototypes were re-evaluated with user based methods and the issues observed
 corrected. The final version of the prototypes can be found [here](https://www.figma.com/proto/DEWXOAiI9v0SlVEOiWMIV3/Scanner-App?node-id=0-1&t=IKaZQpYARTGxII1s-1). 
 
 Finally, we compared the time to do a standard 3-page scan with the original application and ours, 
-and found that the time required with our own application is about 3 seconds less. This time 
+and found that the time required with our application is about 3 seconds less. This time 
 saving is very important for an app like Microsoft Lens that is used by millions of users every 
 month.
