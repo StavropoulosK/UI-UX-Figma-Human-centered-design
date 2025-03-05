@@ -9,7 +9,8 @@ choose one, Microsoft Lens, that seems to have some areas which can be improved.
 Moreover we use human-centered design methods and perform user analysis to 
 understand and define typical users. Afterwards we do task analysis to understand exactly what 
 tasks a user does with a scanning application. Moreover, we do requirement analysis and define
-the functional and non-functional requirements of the application.  
+the functional and non-functional requirements of the application.
+
 Additionally we evaluate Microsoft Lens app with both expert and user based evaluation 
 methods. For the formative assessment of the application we do user based evaluation using the 
 think aloud protocol and expert based evaluation using heuristic evaluation. For the conclusive 
