@@ -4,7 +4,7 @@ This is the group project of Stavropoulos Konstantinos and Charalampopoulos Dimi
 
 In this project we analyze, evaluate and redesign a document scanning application using human
 centered design principles. Initially, we study some available applications and from them we 
-choose one, Microsoft Lens, that seemed to have some areas which could be improved.
+choose one, Microsoft Lens, that seems to have some areas which can be improved.
 
 Moreover we use human-centered design methods and perform user analysis to 
 understand and define typical users. Afterwards we do task analysis to understand exactly what 
