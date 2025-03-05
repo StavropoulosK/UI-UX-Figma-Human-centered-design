@@ -22,7 +22,7 @@ evaluation of the application considered the app averagely designed.
 
 Afterwards, we analyze the received feedback and in combination with the requirements that 
 were defined during requirement analysis we redesign the application in figma to effectively 
-address all the problems that were observed. In fact, we create detailed prototypes showing all 
+address all the problems that were observed. In fact, we created detailed prototypes showing all 
 the individual functions of the application and the way the user will interact with it. Additionally, 
 the prototypes were re-evaluated with user based methods and the issues observed have been 
 corrected. The final version of the prototypes can be found [here](https://www.figma.com/proto/DEWXOAiI9v0SlVEOiWMIV3/Scanner-App?node-id=0-1&t=IKaZQpYARTGxII1s-1). 
